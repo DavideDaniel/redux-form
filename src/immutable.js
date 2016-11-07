@@ -25,7 +25,6 @@ export const {
   formValueSelector,
   getFormValues,
   getFormSyncErrors,
-  getFormSubmitErrors,
   initialize,
   isDirty,
   isInvalid,
